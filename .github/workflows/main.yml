@@ -32,11 +32,4 @@ jobs:
             cd /home/ubuntu/llm-backend
             source venv/bin/activate
             pip install -r requirements.txt
-            PID=$(pgrep -f "gunicorn.*app:app")
-            if [ -n "$PID" ]; then
-              echo "Stopping the running Flask application (PID: $PID)..."
-              kill $PID || true
-              sleep 5 # Wait for the process to terminate gracefully
-            fi
             nohup gunicorn app:app -b 0.0.0.0:3002 > /dev/null 2>&1 &
-            disown
