@@ -11,7 +11,7 @@ def respond_to_query():
         query = data['query']
         response = 'Respond to ' + query
     else:
-        response = 'Hello, world!'
+        response = 'Hello, new world!'
 
     return jsonify(response=response)
 
