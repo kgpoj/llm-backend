@@ -15,6 +15,6 @@ def respond_to_query():
         question = request_data['question']
         response = jarvis.respond_to_question(question, data)
     else:
-        response = 'Hello, world！！！'
+        response = 'Hello, world'
 
     return jsonify(response=response)
