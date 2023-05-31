@@ -13,4 +13,8 @@
 3. 检查一下：`echo $OPENAI_API_KEY`
 
 ## 运行
-`flask run -p 3002 --debug`
+### 本地
+项目根目录下：`flask run -p 3002 --debug`
+
+### 线上
+`http://3.26.183.0/jarvis`
