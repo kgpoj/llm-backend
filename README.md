@@ -12,5 +12,5 @@
 2. `source ~/.zshrc`
 3. 检查一下：`echo $OPENAI_API_KEY`
 
-### 运行
+## 运行
 `flask run -p 3002 --debug`
