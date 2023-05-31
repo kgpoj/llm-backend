@@ -5,6 +5,7 @@ from jarvis import Jarvis
 
 app = Flask(__name__)
 CORS(app)
+jarvis = Jarvis()
 
 @app.route('/', methods=['GET', 'POST'])
 def respond_to_query():
@@ -17,6 +18,3 @@ def respond_to_query():
         response = 'Hello, world！！！'
 
     return jsonify(response=response)
-
-jarvis = Jarvis()
-app.run(port=3002, debug=True)
