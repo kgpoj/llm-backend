@@ -32,4 +32,5 @@ jobs:
             cd /home/ubuntu/llm-backend
             source venv/bin/activate
             pip install -r requirements.txt
+            source ~/.zshrc
             nohup gunicorn app:app -b 0.0.0.0:3002 --reload > /dev/null 2>&1 &
