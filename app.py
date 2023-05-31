@@ -18,6 +18,5 @@ def respond_to_query():
 
     return jsonify(response=response)
 
-if __name__ == '__main__':
-    jarvis = Jarvis()
-    app.run(port=3002, debug=True)
+jarvis = Jarvis()
+app.run(port=3002, debug=True)

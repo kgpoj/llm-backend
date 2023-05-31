@@ -5,8 +5,6 @@ from langchain.chat_models import ChatOpenAI
 from langchain.llms import BaseLLM
 from langchain.output_parsers import CommaSeparatedListOutputParser
 
-os.environ["OPENAI_API_KEY"] = "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"
-
 
 class RelevantFieldsChain(LLMChain):
     @classmethod
