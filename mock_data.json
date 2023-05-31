@@ -1,0 +1,3888 @@
+{
+  "id": "3533686",
+  "displayListingId": null,
+  "marketStatus": [],
+  "propertyPageLink": "https://www.realestate.com.au/property/1-kingsford-ave-coburg-north-vic-3058",
+  "mainImage": {
+    "url": "https://i2.au.reastatic.net/{width}x{height}/c18a27d08f237acbfc7721955c8ac05ca38c4056d4f8d96570652b64a1ceeca9/main.jpg",
+    "templated": true,
+    "__typename": "PropertyImage"
+  },
+  "fullAddress": "1 Kingsford Avenue, Coburg North, Vic 3058",
+  "shortAddress": "1 Kingsford Avenue",
+  "suburb": "Coburg North",
+  "state": "Vic",
+  "streetName": "Kingsford Avenue",
+  "postcode": "3058",
+  "__typename": "PropertyDetails",
+  "valuations": {
+    "sale": {
+      "confidence": "high",
+      "display": {
+        "lastUpdated": "24 April, 2023",
+        "value": "$937,867",
+        "__typename": "PropertyValuationDisplay"
+      },
+      "range": {
+        "min": 820000,
+        "max": 1050000,
+        "__typename": "PropertyValuationRange"
+      },
+      "__typename": "PropertyValuation"
+    },
+    "rental": {
+      "confidence": "high",
+      "display": {
+        "lastUpdated": "22 May, 2023",
+        "value": "$565",
+        "__typename": "PropertyValuationDisplay"
+      },
+      "__typename": "PropertyValuation"
+    },
+    "__typename": "PropertyValuations"
+  },
+  "attributes": {
+    "propertyType": "House",
+    "bedrooms": {
+      "display": "3",
+      "__typename": "PropertyAttribute"
+    },
+    "bathrooms": {
+      "display": "1",
+      "__typename": "PropertyAttribute"
+    },
+    "carSpaces": {
+      "display": "0",
+      "__typename": "PropertyAttribute"
+    },
+    "landArea": {
+      "display": "482 m²",
+      "__typename": "PropertyAttribute"
+    },
+    "floorArea": null,
+    "yearBuilt": null,
+    "__typename": "PropertyAttributes"
+  },
+  "mediaObjects": [
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/c18a27d08f237acbfc7721955c8ac05ca38c4056d4f8d96570652b64a1ceeca9/main.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed May 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/bdc8296a8de64c2fda1191cb5c7a19c03421b435fbc2e20bbe82fadbf4fc0c7c/image2.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed May 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/a17b9aab591b4cea12dde97bfc4bb78da52a225bea0937de9cd38a2a0f086fa7/image3.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed May 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/dbcfcb288db1b0e2f55b19e385cc29cb39d34eaf6f9f647483a87b427f878e5e/image4.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed May 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/f8d2b87ae50c428da6074f23e371f43d14878075f82cb7b623e88fea97b57a2c/image5.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed May 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/864e549fee389bd95f49fcfbf16d1eea593d90408521d12da6ca8c119c0bbe52/image6.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed May 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/f97cb8b6bd5da2d96fa446125b80d606182000f9278b3d98bb110a05e6526042/image7.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed May 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/e436e008c715251028c3036085617a565da07ebc7ff163697f971aee05d78d36/image8.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed May 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/ae1c69665b237ba32493e5c750813f8fdc5dfc623eb03c51d9abc82d9eb3446b/image9.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed May 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/f7fe4cd8af0e53df6ba18c670e0bde1aeaf29dd48b41ffd2e3ab8c928f3fb67e/main.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed March 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/f0adf8dc980925f144d295660075da01d80975beed4f6afd0d825c86f38d7e45/image2.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed March 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/45eec9e8e33e0babd4730269695a339966a5f453c7f75a40a241d9ec92d0fb40/image3.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed March 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/31e3623495393ad3486fa1f1d86dc8a425c839a167b839e6d5b68bcab403f91a/image4.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed March 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/58aeb65bebd0c300a237025f6bcca724cbf08cf502dcded57772c3e4d1ab3258/image5.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed March 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/c3fbbe6dde0a78b7649e0ca073cbb1491e0f56dcdb9dabd31162a8bbd4b7c644/image6.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed March 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/df07a45036937ada12a3b9e2665855bf08116d92f5b78f1022684528a5516082/image7.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed March 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/5d95e5449de6b9cbf274f9b896e63a4ad0a70c49058f76e39d03c1caaea6fdc9/image8.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed March 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/a3830b82dbb8f62c629714370e05e617c1caa56f1737bcf51a85a06ed4fd246d/image9.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed March 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "image",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/531d976ce635daee2765f43b1845c0708791b232a6ee01b62c0de08205fe6255/image10.jpg",
+        "__typename": "Image"
+      },
+      "caption": "Listed March 2015",
+      "__typename": "MedianObject"
+    },
+    {
+      "mediaType": "floorplan",
+      "image": {
+        "url": "https://i2.au.reastatic.net/{width}x{height}/08c2eda13f0b6eeb73ce53ef23d3fa4bb6544d4a9ce85e8602361e3c0df29d5b/floorplan1.gif",
+        "__typename": "Image"
+      },
+      "caption": "Listed March 2015",
+      "__typename": "MedianObject"
+    }
+  ],
+  "comparableMarketEvents": {
+    "buy": {
+      "data": [
+        {
+          "property": {
+            "propertyId": "3356556",
+            "suburb": "Coburg North",
+            "shortAddress": "27 Goleen Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "562 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/02ee3135f9602c6c328181809b2b1deadd04b1aff904ec21e265af6b5631a2d7/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-05",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "Auction - $900,000 - $990,000",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "142092340",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3594858",
+            "suburb": "Coburg",
+            "shortAddress": "5 Lonsdale St",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "4",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "0",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "483 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/7b0fb34d6b0829ba2c0e7c714069cb20c134029080c316654bfb4abeb36f2def/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-02-24",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$1,050,000 - $1,150,000",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "141549592",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3360548",
+            "suburb": "Coburg",
+            "shortAddress": "209 Gordon Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "404 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/e363f9636b3f8d27cbf849ba44420109c5294a4e8fab006d970eae2f21505bc6/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-09",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "Contact Agent",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "142106100",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "4728967",
+            "suburb": "Pascoe Vale South",
+            "shortAddress": "516 Bell Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "463 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/a1861ce2a3efdad855f2c60f92a040af28729fe36e5bf8686c68756a7c517a1f/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-24",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "Auction 17th of June at 3pm",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "142220196",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3223819",
+            "suburb": "Pascoe Vale",
+            "shortAddress": "19 Dromana Avenue",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "438 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/123619b7cddf35b1b36f9139be18a0623e2302131756ffdb6400decd18f2cc71/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-03-04",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "Private Sale: $990,000",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "141625656",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "4615509",
+            "suburb": "Pascoe Vale South",
+            "shortAddress": "443 Bell Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "484 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/e3515d90aebe51b9af4f60807978d70b039ba18481c1c6d7e757f87804b623a4/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-08",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$950,000 - $1,045,000",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "142097212",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3735841",
+            "suburb": "Strathmore",
+            "shortAddress": "324 Napier Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "553 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/096b28e8ae8c41e8b03009d22f083865e2875f14606d6357e1d4d741e1cb1956/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-04-03",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "Contact Agent",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "141857704",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "11110317",
+            "suburb": "Coburg North",
+            "shortAddress": "4 Biggs Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "4",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": {
+                "display": "146 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "landArea": {
+                "display": "375 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/3b80cea41494892a30add81617a1b2a8ae79a00f0907372aeeb98058b57788b2/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-19",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "Offer Welcome.",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "142183132",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "4190433",
+            "suburb": "Reservoir",
+            "shortAddress": "5 Zinnia Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "495 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/bcac52d26fa783358cc70a3487958b20fbbc0b7929f02617a56fc9678a6770dc/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-17",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "Auction $860,000 - $890,000",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "142166416",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3584986",
+            "suburb": "Coburg",
+            "shortAddress": "50 Linsey Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "504 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/b7c2d9bfadf4dc58ff2a4f7078c747b86a36aa1fd7102b3adee2ea3fbb919c30/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-02-10",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "Under Offer",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "141441360",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        }
+      ],
+      "__typename": "ComparableMarketEventList"
+    },
+    "sold": {
+      "data": [
+        {
+          "property": {
+            "propertyId": "3775653",
+            "suburb": "COBURG",
+            "shortAddress": "149 O'hea Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "475 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/374b1e4bf2dd6f5110189f6d1939005ef1686f5a7a5a40ba0653b88814da3f6c/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-19",
+              "__typename": "EventDate"
+            },
+            "price": null,
+            "listingId": "141593140",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3595890",
+            "suburb": "COBURG NORTH",
+            "shortAddress": "42 Lorensen Ave",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "0",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "486 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": null,
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-02-20",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$900,000",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": null,
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "4154355",
+            "suburb": "COBURG NORTH",
+            "shortAddress": "55 Williams Road",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "501 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/90d60ee2d4ea8bb9bae4cc70130907b22c47c33d8cb33c2c725f089e2f739dda/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-20",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$851,000",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "142028048",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3903702",
+            "suburb": "COBURG NORTH",
+            "shortAddress": "17 Rollo Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "563 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/555c7e0a229d0192e70e758ad768c4b385cce03f8a68be1f45d62254cec9c870/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2022-12-20",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$945,000",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "141010524",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3761681",
+            "suburb": "COBURG NORTH",
+            "shortAddress": "19 Norris Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "0",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": {
+                "display": "111 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "landArea": {
+                "display": "386 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/f4041c5721e7c9aeedfa411f49068b27518c3a24e43ec766eb08196dee2baf38/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2022-11-10",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$915,000",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "140654407",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "4154345",
+            "suburb": "COBURG NORTH",
+            "shortAddress": "25 Williams Road",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "560 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/d19d70e07100835c8da9574f25a606fcfb9109b3552e094dea7494bf4f38b18a/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-11",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$895,000",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "141967492",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "2875966",
+            "suburb": "COBURG",
+            "shortAddress": "22 Abeckett Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "0",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "374 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/609538b31e89ee6db5bf2938bdee880ef42511921210876442178aaaba8dd5aa/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-02-02",
+              "__typename": "EventDate"
+            },
+            "price": null,
+            "listingId": "141013100",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3864509",
+            "suburb": "PASCOE VALE",
+            "shortAddress": "14 Raeburn Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "452 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/479f4197df4c407425cc111a4d93562b96041acdc14c533f21e5f1f51c0d9969/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2022-12-09",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$924,000",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "140715059",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "9646019",
+            "suburb": "COBURG NORTH",
+            "shortAddress": "2 Shorts Road",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "4",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "311 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/e37524c6c21cd95611f8955d989b7be8583943827f7b376587dddc9d32d933c8/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-03",
+              "__typename": "EventDate"
+            },
+            "price": null,
+            "listingId": "141642148",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3958784",
+            "suburb": "COBURG NORTH",
+            "shortAddress": "26 Shore Grove",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "568 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/0a289ff8f55089035902021c256b300caeb855355cbc0b45b097040155a486da/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-04-05",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$985,000",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "141947416",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        }
+      ],
+      "__typename": "ComparableMarketEventList"
+    },
+    "rent": {
+      "data": [
+        {
+          "property": {
+            "propertyId": "3533694",
+            "suburb": "Coburg North",
+            "shortAddress": "17 Kingsford Avenue",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "0",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/7cc770286e5a56b09b65d3ec9c92da999172d4185c84976df050c586f691694d/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-29",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$620 Per Week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436919360",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3993324",
+            "suburb": "Coburg",
+            "shortAddress": "27 Stawell Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "0",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/9d08b06228940df6a95e551330f34707b325f95b97a90f3a1b441639db26d4ba/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-19",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$600 per week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436863496",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "9792027",
+            "suburb": "Pascoe Vale",
+            "shortAddress": "6/12 Bristol Road",
+            "attributes": {
+              "propertyType": "Unit",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/81e77f8f866351d2264aeb94aca19f0ddb737620b25216ca899bc791679e6090/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-14",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$560 pw / $2433 pcm",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436822676",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "11337617",
+            "suburb": "Coburg North",
+            "shortAddress": "4/4 Sheppard Street",
+            "attributes": {
+              "propertyType": "Unit",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/f5205f8fb499ba779aaf58e3707a9f3e0acaed5188668e2acc63f1e83082b429/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-22",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$495pw / $2151pcm",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436875256",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "14534756",
+            "suburb": "Pascoe Vale",
+            "shortAddress": "1/18 Zenith Street",
+            "attributes": {
+              "propertyType": "Unit",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/1d67167e6bae948d7b88843bce2fd0f784dd315edddfac84f6c9cf06d4633712/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-22",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$550 per week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "428819342",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "14687163",
+            "suburb": "Pascoe Vale",
+            "shortAddress": "1/9 Sussex Street",
+            "attributes": {
+              "propertyType": "Unit",
+              "bedrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/82ad5d804981130a5650d07df67b3266f53493580b4c093eb7e20f8b35b32e54/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-29",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$550 Per Week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436919712",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "20052003",
+            "suburb": "Pascoe Vale",
+            "shortAddress": "4/112 Cumberland Road",
+            "attributes": {
+              "propertyType": "Unit",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/658141f2d9164ad2bf2c0ab0af5f3c6ab03876d8c07db284d47bb091cc4b494b/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-22",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$550 per week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436876260",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "14786800",
+            "suburb": "Coburg North",
+            "shortAddress": "4/28 Lorensen Avenue",
+            "attributes": {
+              "propertyType": "Unit",
+              "bedrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/b802a3b1292c1b5b220194ac9248818f77a16b8d0938a1ce3406de3437eeca51/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-23",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$495 per week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "432166490",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "4190039",
+            "suburb": "Pascoe Vale",
+            "shortAddress": "42 Zenith Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "4",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/faab3d34ab9219d7cbae58601634215964db59bdd12c3f56eacf8f1d49a71ed4/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-20",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$550 per week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436870312",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "14494340",
+            "suburb": "Pascoe Vale",
+            "shortAddress": "1/37 Sylvan Grove",
+            "attributes": {
+              "propertyType": "Unit",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/895e3c69d8a1270f4a6b90573eff834486aff264fa8711f229fd235d2884e81e/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-04-18",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$600 per week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "413918387",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        }
+      ],
+      "__typename": "ComparableMarketEventList"
+    },
+    "leased": {
+      "data": [
+        {
+          "property": {
+            "propertyId": "3645613",
+            "suburb": "Coburg North",
+            "shortAddress": "21 Mashoobra Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/b5fc3d1f198f4cceb2c610c04f70a861f255f8ce0fc1d03905b3308c32aad2e0/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-03-09",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$560 per week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436176368",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3637073",
+            "suburb": "Fawkner",
+            "shortAddress": "73 Marlborough Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "0",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": {
+                "display": "662 m²",
+                "__typename": "PropertyAttribute"
+              },
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/2b0fe3b0c8cfa7d79f489c4b409909ad27d111c6ba249f5f61b61a5e762412c0/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-09",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$550.00 Per Week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436645608",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "4165388",
+            "suburb": "Pascoe Vale",
+            "shortAddress": "6A Windsor Street",
+            "attributes": {
+              "propertyType": "Unit",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/64fa1e5a231d014aef4a74867385ec825eb7c0a24feacaa0ce2091c087066010/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-04-27",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$550 per week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436643472",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "4131929",
+            "suburb": "Coburg",
+            "shortAddress": "30 Webb Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "0",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/d4e25f016a98f03e7a5b16bd6b0c637d0453ba9124cb2c566ffcfba86814d812/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-03-22",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$570.00 Per Week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436365564",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "10735043",
+            "suburb": "Coburg North",
+            "shortAddress": "1/37 Boundary Road",
+            "attributes": {
+              "propertyType": "Unit",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/e9238eb91d5cabda49edb1eb958c892df70940e41e932701c7625f2925645531/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-03-09",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$560 Per Week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436256396",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3322378",
+            "suburb": "Pascoe Vale",
+            "shortAddress": "258 Gaffney Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/ae578610e7d47c2fda765e4cc0c9abd9b9f528d192a7d43b543b76ab21f4e71f/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-12",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$550 per week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436755408",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "4221675",
+            "suburb": "Pascoe Vale",
+            "shortAddress": "3/18 Sylvan Grove",
+            "attributes": {
+              "propertyType": "Unit",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/e1e4bc171f76240a2135bc889658830a3e23a5ebff68df0e33143e8b2e05c533/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-01",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$580 per week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436448992",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "4017325",
+            "suburb": "Pascoe Vale",
+            "shortAddress": "8 Sunshine Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/6d954fff82f4a0c5e6ec45dbc45de1646a9c54cc6058eed773910a89306c5f62/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-03-22",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$550 per week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436400064",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "4221580",
+            "suburb": "Pascoe Vale",
+            "shortAddress": "211 Sussex Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "3",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/5990c61fa7893bb5d53e9951f47bacaf2a98b0afd502f3bbc650c5668f48272c/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-03-01",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$550.00 Per Week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436273660",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        },
+        {
+          "property": {
+            "propertyId": "3360538",
+            "suburb": "Coburg",
+            "shortAddress": "200 Gordon Street",
+            "attributes": {
+              "propertyType": "House",
+              "bedrooms": {
+                "display": "2",
+                "__typename": "PropertyAttribute"
+              },
+              "bathrooms": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "carSpaces": {
+                "display": "1",
+                "__typename": "PropertyAttribute"
+              },
+              "floorArea": null,
+              "landArea": null,
+              "__typename": "PropertyAttributes"
+            },
+            "mainImage": {
+              "url": "https://i2.au.reastatic.net/{size}/d4f804baa6d8b36014692307e6898cf163b9c4b44c0e916247cbfa593e52ce83/main.jpg",
+              "templated": true,
+              "__typename": "PropertyImage"
+            },
+            "__typename": "ComparableProperty"
+          },
+          "event": {
+            "date": {
+              "value": "2023-05-15",
+              "__typename": "EventDate"
+            },
+            "price": {
+              "display": "$560 per week",
+              "__typename": "ComparablePropertyPrice"
+            },
+            "listingId": "436701880",
+            "__typename": "MarketEvent"
+          },
+          "__typename": "ComparableMarketEvent"
+        }
+      ],
+      "__typename": "ComparableMarketEventList"
+    },
+    "__typename": "ComparableMarketEvents"
+  },
+  "recentSales": {
+    "startDate": {
+      "value": "2023-05-22",
+      "display": {
+        "longWithYear": "Mon 22 May 2023",
+        "__typename": "DateDisplay"
+      },
+      "__typename": "SalesDate"
+    },
+    "endDate": {
+      "value": "2023-05-28",
+      "display": {
+        "longWithYear": "Sun 28 May 2023",
+        "__typename": "DateDisplay"
+      },
+      "__typename": "SalesDate"
+    },
+    "stateSalesResults": {
+      "auction": {
+        "clearanceRate": 71,
+        "__typename": "RecentSalesStateAuction"
+      },
+      "__typename": "RecentSalesStateResults"
+    },
+    "suburbSalesResults": {
+      "auctionSalesCount": 3,
+      "privateSalesCount": 0,
+      "__typename": "RecentSalesSuburbResults"
+    },
+    "__typename": "RecentSales"
+  },
+  "propertyTimeline": [
+    {
+      "date": "2015-03-17",
+      "agency": "Stockdale & Leggo - Glenroy",
+      "price": "$636,350",
+      "eventType": "sold",
+      "__typename": "PropertyTimeline"
+    },
+    {
+      "date": "2003-09-01",
+      "agency": null,
+      "price": "$325,000",
+      "eventType": "sold",
+      "__typename": "PropertyTimeline"
+    },
+    {
+      "date": "2002-07-23",
+      "agency": null,
+      "price": "$275,000",
+      "eventType": "sold",
+      "__typename": "PropertyTimeline"
+    },
+    {
+      "date": "1986-11-01",
+      "agency": null,
+      "price": "$82,000",
+      "eventType": "sold",
+      "__typename": "PropertyTimeline"
+    }
+  ],
+  "marketInsights": {
+    "supplyDemand": {
+      "buy": {
+        "latest": {
+          "monthly": {
+            "dataPoint": {
+              "supplyChangePercentage": {
+                "value": 8.333333333333332,
+                "display": "Up 8% from last month",
+                "__typename": "PropertySupplyDemandChangePercentage"
+              },
+              "demandChangePercentage": {
+                "value": 18.101153504880212,
+                "display": "Up 18% from last month",
+                "__typename": "PropertySupplyDemandChangePercentage"
+              },
+              "__typename": "PropertySupplyDemandDataPoint"
+            },
+            "__typename": "PropertyLatestSupplyDemandDataPoint"
+          },
+          "weekly": {
+            "dataPoint": {
+              "supplyChangePercentage": {
+                "value": -9.090909090909092,
+                "display": "Down 9% from last week",
+                "__typename": "PropertySupplyDemandChangePercentage"
+              },
+              "demandChangePercentage": {
+                "value": -13.789107763615297,
+                "display": "Down 14% from last week",
+                "__typename": "PropertySupplyDemandChangePercentage"
+              },
+              "__typename": "PropertySupplyDemandDataPoint"
+            },
+            "__typename": "PropertyLatestSupplyDemandDataPoint"
+          },
+          "__typename": "PropertyLatestSupplyDemandData"
+        },
+        "data": [
+          {
+            "frequency": "MONTHLY",
+            "duration": "TWELVE_MONTHS",
+            "label": "1 year",
+            "dataPoints": [
+              {
+                "startDate": {
+                  "value": "2022-05-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-05-31",
+                  "__typename": "Date"
+                },
+                "supply": 16,
+                "demand": 1531,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-06-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-06-30",
+                  "__typename": "Date"
+                },
+                "supply": 16,
+                "demand": 1822,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-07-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-07-31",
+                  "__typename": "Date"
+                },
+                "supply": 15,
+                "demand": 1263,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-08-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-08-31",
+                  "__typename": "Date"
+                },
+                "supply": 15,
+                "demand": 1086,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-09-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-09-30",
+                  "__typename": "Date"
+                },
+                "supply": 16,
+                "demand": 1000,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-10-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-10-31",
+                  "__typename": "Date"
+                },
+                "supply": 15,
+                "demand": 1609,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-11-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-11-30",
+                  "__typename": "Date"
+                },
+                "supply": 19,
+                "demand": 1580,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-12-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-12-31",
+                  "__typename": "Date"
+                },
+                "supply": 14,
+                "demand": 1002,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-01-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-01-31",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 982,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-02-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-02-28",
+                  "__typename": "Date"
+                },
+                "supply": 13,
+                "demand": 1426,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-03-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-03-31",
+                  "__typename": "Date"
+                },
+                "supply": 12,
+                "demand": 1127,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-04-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-30",
+                  "__typename": "Date"
+                },
+                "supply": 13,
+                "demand": 1331,
+                "__typename": "PropertySupplyDemandDataPoint"
+              }
+            ],
+            "__typename": "PropertyTimeSeries"
+          },
+          {
+            "frequency": "MONTHLY",
+            "duration": "MAX",
+            "label": "Max",
+            "dataPoints": [
+              {
+                "startDate": {
+                  "value": "2021-05-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-05-31",
+                  "__typename": "Date"
+                },
+                "supply": 16,
+                "demand": 2018,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-06-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-06-30",
+                  "__typename": "Date"
+                },
+                "supply": 13,
+                "demand": 1452,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-07-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-07-31",
+                  "__typename": "Date"
+                },
+                "supply": 11,
+                "demand": 1773,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-08-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-08-31",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 1137,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-09-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-09-30",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 1065,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-10-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-10-31",
+                  "__typename": "Date"
+                },
+                "supply": 14,
+                "demand": 1252,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-11-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-11-30",
+                  "__typename": "Date"
+                },
+                "supply": 17,
+                "demand": 1323,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-12-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-12-31",
+                  "__typename": "Date"
+                },
+                "supply": 13,
+                "demand": 1053,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-01-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-01-31",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 1311,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-02-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-02-28",
+                  "__typename": "Date"
+                },
+                "supply": 13,
+                "demand": 1274,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-03-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-03-31",
+                  "__typename": "Date"
+                },
+                "supply": 14,
+                "demand": 1607,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-04-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-04-30",
+                  "__typename": "Date"
+                },
+                "supply": 13,
+                "demand": 896,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-05-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-05-31",
+                  "__typename": "Date"
+                },
+                "supply": 16,
+                "demand": 1531,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-06-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-06-30",
+                  "__typename": "Date"
+                },
+                "supply": 16,
+                "demand": 1822,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-07-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-07-31",
+                  "__typename": "Date"
+                },
+                "supply": 15,
+                "demand": 1263,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-08-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-08-31",
+                  "__typename": "Date"
+                },
+                "supply": 15,
+                "demand": 1086,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-09-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-09-30",
+                  "__typename": "Date"
+                },
+                "supply": 16,
+                "demand": 1000,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-10-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-10-31",
+                  "__typename": "Date"
+                },
+                "supply": 15,
+                "demand": 1609,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-11-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-11-30",
+                  "__typename": "Date"
+                },
+                "supply": 19,
+                "demand": 1580,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-12-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-12-31",
+                  "__typename": "Date"
+                },
+                "supply": 14,
+                "demand": 1002,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-01-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-01-31",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 982,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-02-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-02-28",
+                  "__typename": "Date"
+                },
+                "supply": 13,
+                "demand": 1426,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-03-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-03-31",
+                  "__typename": "Date"
+                },
+                "supply": 12,
+                "demand": 1127,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-04-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-30",
+                  "__typename": "Date"
+                },
+                "supply": 13,
+                "demand": 1331,
+                "__typename": "PropertySupplyDemandDataPoint"
+              }
+            ],
+            "__typename": "PropertyTimeSeries"
+          },
+          {
+            "frequency": "WEEKLY",
+            "duration": "THREE_MONTHS",
+            "label": "3 months",
+            "dataPoints": [
+              {
+                "startDate": {
+                  "value": "2023-02-20",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-02-26",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 524,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-02-27",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-03-05",
+                  "__typename": "Date"
+                },
+                "supply": 9,
+                "demand": 491,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-03-06",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-03-12",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 353,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-03-13",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-03-19",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 390,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-03-20",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-03-26",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 487,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-03-27",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-02",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 384,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-04-03",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-09",
+                  "__typename": "Date"
+                },
+                "supply": 9,
+                "demand": 388,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-04-10",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-16",
+                  "__typename": "Date"
+                },
+                "supply": 9,
+                "demand": 355,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-04-17",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-23",
+                  "__typename": "Date"
+                },
+                "supply": 7,
+                "demand": 550,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-04-24",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-30",
+                  "__typename": "Date"
+                },
+                "supply": 9,
+                "demand": 705,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-05-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-05-07",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 746,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-05-08",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-05-14",
+                  "__typename": "Date"
+                },
+                "supply": 11,
+                "demand": 863,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-05-15",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-05-21",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 744,
+                "__typename": "PropertySupplyDemandDataPoint"
+              }
+            ],
+            "__typename": "PropertyTimeSeries"
+          }
+        ],
+        "display": "3 bedroom houses in Coburg North",
+        "__typename": "PropertySupplyDemandData"
+      },
+      "rent": {
+        "latest": {
+          "monthly": {
+            "dataPoint": {
+              "supplyChangePercentage": {
+                "value": -50,
+                "display": "Down 50% from last month",
+                "__typename": "PropertySupplyDemandChangePercentage"
+              },
+              "demandChangePercentage": {
+                "value": -82.1917808219178,
+                "display": "Down 82% from last month",
+                "__typename": "PropertySupplyDemandChangePercentage"
+              },
+              "__typename": "PropertySupplyDemandDataPoint"
+            },
+            "__typename": "PropertyLatestSupplyDemandDataPoint"
+          },
+          "weekly": {
+            "dataPoint": {
+              "supplyChangePercentage": {
+                "value": 0,
+                "display": "No change from last week",
+                "__typename": "PropertySupplyDemandChangePercentage"
+              },
+              "demandChangePercentage": {
+                "value": 0,
+                "display": "No change from last week",
+                "__typename": "PropertySupplyDemandChangePercentage"
+              },
+              "__typename": "PropertySupplyDemandDataPoint"
+            },
+            "__typename": "PropertyLatestSupplyDemandDataPoint"
+          },
+          "__typename": "PropertyLatestSupplyDemandData"
+        },
+        "data": [
+          {
+            "frequency": "MONTHLY",
+            "duration": "TWELVE_MONTHS",
+            "label": "1 year",
+            "dataPoints": [
+              {
+                "startDate": {
+                  "value": "2022-05-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-05-31",
+                  "__typename": "Date"
+                },
+                "supply": 12,
+                "demand": 293,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-06-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-06-30",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 216,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-07-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-07-31",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 178,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-08-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-08-31",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 371,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-09-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-09-30",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 232,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-10-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-10-31",
+                  "__typename": "Date"
+                },
+                "supply": 12,
+                "demand": 334,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-11-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-11-30",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 234,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-12-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-12-31",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 316,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-01-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-01-31",
+                  "__typename": "Date"
+                },
+                "supply": 7,
+                "demand": 431,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-02-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-02-28",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 425,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-03-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-03-31",
+                  "__typename": "Date"
+                },
+                "supply": 6,
+                "demand": 146,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-04-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-30",
+                  "__typename": "Date"
+                },
+                "supply": 3,
+                "demand": 26,
+                "__typename": "PropertySupplyDemandDataPoint"
+              }
+            ],
+            "__typename": "PropertyTimeSeries"
+          },
+          {
+            "frequency": "MONTHLY",
+            "duration": "MAX",
+            "label": "Max",
+            "dataPoints": [
+              {
+                "startDate": {
+                  "value": "2021-05-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-05-31",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 274,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-06-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-06-30",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 254,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-07-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-07-31",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 333,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-08-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-08-31",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 232,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-09-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-09-30",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 373,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-10-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-10-31",
+                  "__typename": "Date"
+                },
+                "supply": 11,
+                "demand": 258,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-11-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-11-30",
+                  "__typename": "Date"
+                },
+                "supply": 14,
+                "demand": 289,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2021-12-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2021-12-31",
+                  "__typename": "Date"
+                },
+                "supply": 12,
+                "demand": 230,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-01-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-01-31",
+                  "__typename": "Date"
+                },
+                "supply": 11,
+                "demand": 411,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-02-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-02-28",
+                  "__typename": "Date"
+                },
+                "supply": 16,
+                "demand": 629,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-03-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-03-31",
+                  "__typename": "Date"
+                },
+                "supply": 13,
+                "demand": 391,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-04-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-04-30",
+                  "__typename": "Date"
+                },
+                "supply": 9,
+                "demand": 157,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-05-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-05-31",
+                  "__typename": "Date"
+                },
+                "supply": 12,
+                "demand": 293,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-06-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-06-30",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 216,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-07-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-07-31",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 178,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-08-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-08-31",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 371,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-09-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-09-30",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 232,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-10-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-10-31",
+                  "__typename": "Date"
+                },
+                "supply": 12,
+                "demand": 334,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-11-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-11-30",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 234,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2022-12-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2022-12-31",
+                  "__typename": "Date"
+                },
+                "supply": 8,
+                "demand": 316,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-01-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-01-31",
+                  "__typename": "Date"
+                },
+                "supply": 7,
+                "demand": 431,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-02-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-02-28",
+                  "__typename": "Date"
+                },
+                "supply": 10,
+                "demand": 425,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-03-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-03-31",
+                  "__typename": "Date"
+                },
+                "supply": 6,
+                "demand": 146,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-04-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-30",
+                  "__typename": "Date"
+                },
+                "supply": 3,
+                "demand": 26,
+                "__typename": "PropertySupplyDemandDataPoint"
+              }
+            ],
+            "__typename": "PropertyTimeSeries"
+          },
+          {
+            "frequency": "WEEKLY",
+            "duration": "THREE_MONTHS",
+            "label": "3 months",
+            "dataPoints": [
+              {
+                "startDate": {
+                  "value": "2023-02-20",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-02-26",
+                  "__typename": "Date"
+                },
+                "supply": 6,
+                "demand": 144,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-02-27",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-03-05",
+                  "__typename": "Date"
+                },
+                "supply": 5,
+                "demand": 133,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-03-06",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-03-12",
+                  "__typename": "Date"
+                },
+                "supply": 3,
+                "demand": 50,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-03-13",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-03-19",
+                  "__typename": "Date"
+                },
+                "supply": 2,
+                "demand": 37,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-03-20",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-03-26",
+                  "__typename": "Date"
+                },
+                "supply": 2,
+                "demand": 26,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-03-27",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-02",
+                  "__typename": "Date"
+                },
+                "supply": 1,
+                "demand": 2,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-04-03",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-09",
+                  "__typename": "Date"
+                },
+                "supply": 1,
+                "demand": 3,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-04-10",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-16",
+                  "__typename": "Date"
+                },
+                "supply": 2,
+                "demand": 10,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-04-17",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-23",
+                  "__typename": "Date"
+                },
+                "supply": 2,
+                "demand": 11,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-04-24",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-04-30",
+                  "__typename": "Date"
+                },
+                "supply": 3,
+                "demand": 17,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-05-01",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-05-07",
+                  "__typename": "Date"
+                },
+                "supply": 3,
+                "demand": 30,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-05-08",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-05-14",
+                  "__typename": "Date"
+                },
+                "supply": 4,
+                "demand": 31,
+                "__typename": "PropertySupplyDemandDataPoint"
+              },
+              {
+                "startDate": {
+                  "value": "2023-05-15",
+                  "__typename": "Date"
+                },
+                "endDate": {
+                  "value": "2023-05-21",
+                  "__typename": "Date"
+                },
+                "supply": 4,
+                "demand": 31,
+                "__typename": "PropertySupplyDemandDataPoint"
+              }
+            ],
+            "__typename": "PropertyTimeSeries"
+          }
+        ],
+        "display": "3 bedroom houses in Coburg North",
+        "__typename": "PropertySupplyDemandData"
+      },
+      "__typename": "PropertySupplyDemand"
+    },
+    "__typename": "PropertyMarketInsights",
+    "medianData": {
+      "propertyType": "house",
+      "bedrooms": "3",
+      "medianSoldPrice": 888888,
+      "soldDataIngestDateDisplay": "27 May 2023",
+      "soldProperties": 71,
+      "medianRentalPrice": 550,
+      "rentDataIngestDateDisplay": "27 May 2023",
+      "rentalProperties": 87,
+      "__typename": "PropertyMedianData"
+    },
+    "daysOnSiteYearly": {
+      "buy": {
+        "data": {
+          "median": 49,
+          "__typename": "PropertyMedianDays"
+        },
+        "display": "3 bedroom houses in Coburg North",
+        "__typename": "PropertyDaysOnSiteYearlyData"
+      },
+      "rent": {
+        "data": {
+          "median": 20.5,
+          "__typename": "PropertyMedianDays"
+        },
+        "display": "3 bedroom houses in Coburg North",
+        "__typename": "PropertyDaysOnSiteYearlyData"
+      },
+      "__typename": "PropertyDaysOnSiteYearly"
+    }
+  },
+  "localAgents": {
+    "items": [
+      {
+        "id": "946983",
+        "name": "Damian Ponte",
+        "jobTitle": null,
+        "image": {
+          "url": "https://i1.au.reastatic.net/{size}/9f9a3fe471572500bf5e15903b035f3f7177372f3a873d7f4fd2ec1d9498eb16/main.jpg",
+          "__typename": "PropertyImage"
+        },
+        "reviewsStats": {
+          "avgRating": 5,
+          "totalReviews": 84,
+          "__typename": "AgentReviewsStats"
+        },
+        "primaryListerCount": 10,
+        "secondaryListerCount": 0,
+        "profileLink": {
+          "href": "https://www.realestate.com.au/agent/damian-ponte-946983",
+          "__typename": "Link"
+        },
+        "agency": {
+          "id": "PTOJNZ",
+          "name": "Nelson Alexander - Coburg",
+          "logo": {
+            "url": "https://i1.au.reastatic.net/{size}/7ad71cc2b9acd29ff16281a017e44bdd8f8b5762aacd2b19107e6b54e5c726e4/main.jpg",
+            "templated": true,
+            "__typename": "PropertyImage"
+          },
+          "branding": {
+            "primaryColor": "#1e0f14",
+            "textColor": "#ffffff",
+            "__typename": "AgencyBranding"
+          },
+          "__typename": "Agency"
+        },
+        "__typename": "Agent"
+      },
+      {
+        "id": "2025866",
+        "name": "Lucas De Bartolo",
+        "jobTitle": "Sales Executive & Auctioneer",
+        "image": {
+          "url": "https://i1.au.reastatic.net/{size}/b2d896b7f1f0e8eb7e5aa2a1fd89546ed75e75dba1b548a1cedde49a0b12d2bc/main.jpg",
+          "__typename": "PropertyImage"
+        },
+        "reviewsStats": {
+          "avgRating": 5,
+          "totalReviews": 70,
+          "__typename": "AgentReviewsStats"
+        },
+        "primaryListerCount": 8,
+        "secondaryListerCount": 6,
+        "profileLink": {
+          "href": "https://www.realestate.com.au/agent/lucas-de-bartolo-2025866",
+          "__typename": "Link"
+        },
+        "agency": {
+          "id": "XBPCOB",
+          "name": "Barry Plant - Inner City Group",
+          "logo": {
+            "url": "https://i1.au.reastatic.net/{size}/1186b156d6da960d2fdac510fb25f52c646f5b2cdcd2a6a3d4fbb74f353d4617/main.jpg",
+            "templated": true,
+            "__typename": "PropertyImage"
+          },
+          "branding": {
+            "primaryColor": "#041C2C",
+            "textColor": "#ffffff",
+            "__typename": "AgencyBranding"
+          },
+          "__typename": "Agency"
+        },
+        "__typename": "Agent"
+      },
+      {
+        "id": "748155",
+        "name": "Sam Gotzilianis",
+        "jobTitle": "Licensed Estate Agent & Auctioneer",
+        "image": {
+          "url": "https://i1.au.reastatic.net/{size}/b76c5655528fc65e35159eefa0dcedf8d0ee53c3e5f4759a3c01e8c1b7a21415/main.jpg",
+          "__typename": "PropertyImage"
+        },
+        "reviewsStats": {
+          "avgRating": 5,
+          "totalReviews": 21,
+          "__typename": "AgentReviewsStats"
+        },
+        "primaryListerCount": 7,
+        "secondaryListerCount": 1,
+        "profileLink": {
+          "href": "https://www.realestate.com.au/agent/sam-gotzilianis-748155",
+          "__typename": "Link"
+        },
+        "agency": {
+          "id": "XBPCOB",
+          "name": "Barry Plant - Inner City Group",
+          "logo": {
+            "url": "https://i1.au.reastatic.net/{size}/1186b156d6da960d2fdac510fb25f52c646f5b2cdcd2a6a3d4fbb74f353d4617/main.jpg",
+            "templated": true,
+            "__typename": "PropertyImage"
+          },
+          "branding": {
+            "primaryColor": "#041C2C",
+            "textColor": "#ffffff",
+            "__typename": "AgencyBranding"
+          },
+          "__typename": "Agency"
+        },
+        "__typename": "Agent"
+      },
+      {
+        "id": "2385038",
+        "name": "Raphael Calik-Houston",
+        "jobTitle": "Sales Executive / Auctioneer",
+        "image": {
+          "url": "https://i1.au.reastatic.net/{size}/0ac2b1c6db5b97fe61fa0652c4678a222e22b0bfd40831c078dee4751a2f9192/main.jpg",
+          "__typename": "PropertyImage"
+        },
+        "reviewsStats": {
+          "avgRating": 5,
+          "totalReviews": 90,
+          "__typename": "AgentReviewsStats"
+        },
+        "primaryListerCount": 5,
+        "secondaryListerCount": 0,
+        "profileLink": {
+          "href": "https://www.realestate.com.au/agent/raphael-calik-houston-2385038",
+          "__typename": "Link"
+        },
+        "agency": {
+          "id": "YCIBNV",
+          "name": "Ray White - Coburg",
+          "logo": {
+            "url": "https://i1.au.reastatic.net/{size}/35cf0218ae06159ccac043664a51fd81578b2ff738f2c8037aa05ed10c14fac1/main.jpg",
+            "templated": true,
+            "__typename": "PropertyImage"
+          },
+          "branding": {
+            "primaryColor": "#ffe512",
+            "textColor": "#000000",
+            "__typename": "AgencyBranding"
+          },
+          "__typename": "Agency"
+        },
+        "__typename": "Agent"
+      },
+      {
+        "id": "955943",
+        "name": "Alex Ilyin",
+        "jobTitle": "Licensed Estate Agent | Auctioneer",
+        "image": {
+          "url": "https://i1.au.reastatic.net/{size}/22b72eff93a6856e209ff791b940c028962abc3b50f42d151dc09c399d36b669/main.jpg",
+          "__typename": "PropertyImage"
+        },
+        "reviewsStats": {
+          "avgRating": 5,
+          "totalReviews": 64,
+          "__typename": "AgentReviewsStats"
+        },
+        "primaryListerCount": 4,
+        "secondaryListerCount": 0,
+        "profileLink": {
+          "href": "https://www.realestate.com.au/agent/alex-ilyin-955943",
+          "__typename": "Link"
+        },
+        "agency": {
+          "id": "YOOQIP",
+          "name": "Ray White - Brunswick",
+          "logo": {
+            "url": "https://i1.au.reastatic.net/{size}/35cf0218ae06159ccac043664a51fd81578b2ff738f2c8037aa05ed10c14fac1/main.jpg",
+            "templated": true,
+            "__typename": "PropertyImage"
+          },
+          "branding": {
+            "primaryColor": "#ffe512",
+            "textColor": "#000000",
+            "__typename": "AgencyBranding"
+          },
+          "__typename": "Agency"
+        },
+        "__typename": "Agent"
+      }
+    ],
+    "__typename": "LocalAgents"
+  },
+  "localAgencies": {
+    "items": [
+      {
+        "id": "RXNSBZ",
+        "name": "Harcourts Rata & Co",
+        "logo": {
+          "url": "https://i1.au.reastatic.net/{size}/737fa3f7f08aea8d1a920c34cb679583efb46718f9bf996d0ab75c3fe55aab25/main.jpg",
+          "__typename": "Image"
+        },
+        "branding": {
+          "textColor": "#ffffff",
+          "primaryColor": "#022b49",
+          "__typename": "AgencyBranding"
+        },
+        "profileLink": {
+          "href": "https://www.realestate.com.au/agency/harcourts-rata-co-RXNSBZ",
+          "__typename": "Link"
+        },
+        "stats": {
+          "rentPropertiesCount": 1,
+          "__typename": "AgencyStats"
+        },
+        "__typename": "ExtendedAgency"
+      },
+      {
+        "id": "XEJRES",
+        "name": "Barry Plant - Reservoir",
+        "logo": {
+          "url": "https://i1.au.reastatic.net/{size}/1186b156d6da960d2fdac510fb25f52c646f5b2cdcd2a6a3d4fbb74f353d4617/main.jpg",
+          "__typename": "Image"
+        },
+        "branding": {
+          "textColor": "#ffffff",
+          "primaryColor": "#041C2C",
+          "__typename": "AgencyBranding"
+        },
+        "profileLink": {
+          "href": "https://www.realestate.com.au/agency/barry-plant-reservoir-XEJRES",
+          "__typename": "Link"
+        },
+        "stats": {
+          "rentPropertiesCount": 1,
+          "__typename": "AgencyStats"
+        },
+        "__typename": "ExtendedAgency"
+      },
+      {
+        "id": "XFDESN",
+        "name": "Frank Dowling Real Estate - Essendon",
+        "logo": {
+          "url": "https://i1.au.reastatic.net/{size}/9886713e0bfe47aea808b6bb458893f5fe835a3605743b58cafccd915077757a/main.jpg",
+          "__typename": "Image"
+        },
+        "branding": {
+          "textColor": "#ffffff",
+          "primaryColor": "#04af6e",
+          "__typename": "AgencyBranding"
+        },
+        "profileLink": {
+          "href": "https://www.realestate.com.au/agency/frank-dowling-real-estate-essendon-XFDESN",
+          "__typename": "Link"
+        },
+        "stats": {
+          "rentPropertiesCount": 1,
+          "__typename": "AgencyStats"
+        },
+        "__typename": "ExtendedAgency"
+      },
+      {
+        "id": "XBPCOB",
+        "name": "Barry Plant - Inner City Group",
+        "logo": {
+          "url": "https://i1.au.reastatic.net/{size}/1186b156d6da960d2fdac510fb25f52c646f5b2cdcd2a6a3d4fbb74f353d4617/main.jpg",
+          "__typename": "Image"
+        },
+        "branding": {
+          "textColor": "#ffffff",
+          "primaryColor": "#041C2C",
+          "__typename": "AgencyBranding"
+        },
+        "profileLink": {
+          "href": "https://www.realestate.com.au/agency/barry-plant-inner-city-group-XBPCOB",
+          "__typename": "Link"
+        },
+        "stats": {
+          "rentPropertiesCount": 1,
+          "__typename": "AgencyStats"
+        },
+        "__typename": "ExtendedAgency"
+      },
+      {
+        "id": "XNXBRV",
+        "name": "Nelson Alexander - Brunswick",
+        "logo": {
+          "url": "https://i1.au.reastatic.net/{size}/7ad71cc2b9acd29ff16281a017e44bdd8f8b5762aacd2b19107e6b54e5c726e4/main.jpg",
+          "__typename": "Image"
+        },
+        "branding": {
+          "textColor": "#ffffff",
+          "primaryColor": "#1e0f14",
+          "__typename": "AgencyBranding"
+        },
+        "profileLink": {
+          "href": "https://www.realestate.com.au/agency/nelson-alexander-brunswick-XNXBRV",
+          "__typename": "Link"
+        },
+        "stats": {
+          "rentPropertiesCount": 1,
+          "__typename": "AgencyStats"
+        },
+        "__typename": "ExtendedAgency"
+      }
+    ],
+    "__typename": "LocalAgencies"
+  }
+}
