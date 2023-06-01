@@ -21,7 +21,8 @@ You must respond according to the previous conversation history.
 You should include all the relevant fields in your answer.
 Your answer should be comma-separated and not include any quotation marks.
 You should only answer with the exact field names surrounding by ", e.g. marketInsights, attributes.bedrooms.
-Do not add non-existent fields or expand existing fields in your response, bad example: abc, attributes.bedrooms.number
+Do not add non-existent fields or expand existing fields in your response, bad example: abc, attributes.bedrooms.number.
+If you think there is no fields relevant with users question or user is not sure about what they can ask, response with empty.
 
 Conversation history:
 {conversation_history}
