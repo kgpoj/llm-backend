@@ -9,7 +9,8 @@ class Jarvis:
 
     def _format_data(self, data):
         data = self._remove_typename(data)
-        return json.dumps(data).replace('{', '<').replace('}', '>').replace('\'', '').replace('\"', '')
+        result = json.dumps(data).replace('{', '<').replace('}', '>').replace('\'', '').replace('\"', '')
+        return result[:8000] if len(result) > 8000 else result
 
     def _remove_typename(self, data):
         if isinstance(data, dict):
