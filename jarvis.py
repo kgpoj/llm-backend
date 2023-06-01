@@ -38,7 +38,7 @@ class Jarvis:
                     value = None
         return value
 
-    def respond_to_question(self, question, data):
+    def respond_to_question(self, question, data, history):
         relevant_fields = self.relevant_fields_chain.predict_and_parse(question=question,
                                                                        data_fields=data_fields)
         relevant_data = self._extract_relevant_data(relevant_fields, data)
@@ -46,5 +46,6 @@ class Jarvis:
         formatted_relevant_data = self._format_data(relevant_data)
         response = self.conversation_chain.run(question=question,
                                                data_fields=data_fields,
-                                               data=formatted_relevant_data)
+                                               data=formatted_relevant_data,
+                                               conversation_history=history)
         return response

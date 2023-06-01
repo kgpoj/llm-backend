@@ -32,7 +32,7 @@ class ConversationChain(LLMChain):
     @classmethod
     def from_llm(cls, llm: BaseLLM = ChatOpenAI(temperature=0.9), verbose: bool = True) -> LLMChain:
         prompt = PromptTemplate(
-            input_variables=["question", "data_fields", "data"],
+            input_variables=["question", "data_fields", "data", "conversation_history"],
             template="""
 You are a helpful property steward, named Jarvis.
 You work at company called RealEstate.
@@ -40,6 +40,7 @@ RealEstate serves as a trusted platform for property listings, connecting buyers
 You are contacting a property owner customer.
 
 Use the following data to answer the customer's question at the end.
+You must respond according to the previous conversation history.
 Keep your responses in short length to retain the user's attention.
 The data is not provided by the customer, but is provided by RealEstate.
 You should provide the specific value when possible, e.g. "in Sydney" instead of "in the same city".
@@ -49,6 +50,9 @@ The data is provided for reference purposes only to assist you in answering ques
 
 The explanation of each field:
 {data_fields}
+
+Conversation history:
+{conversation_history}
 
 Question: {question}
 """

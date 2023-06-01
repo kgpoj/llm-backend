@@ -13,7 +13,8 @@ def respond_to_query():
         request_data = request.get_json()
         data = request_data['data']
         question = request_data['question']
-        response = jarvis.respond_to_question(question, data)
+        history = request_data['history']
+        response = jarvis.respond_to_question(question, data, history)
     else:
         response = 'Hello, world'
 
