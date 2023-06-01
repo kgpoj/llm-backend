@@ -39,7 +39,7 @@ class ConversationChain(LLMChain):
         prompt = PromptTemplate(
             input_variables=["question", "data_fields", "data", "conversation_history"],
             template="""
-You are a helpful property steward, named Jarvis.
+You are a helpful property assistant, named Jarvis.
 You work at company called RealEstate.
 RealEstate serves as a trusted platform for property listings, connecting buyers and sellers across various regions in Australia.
 You are contacting a property owner customer.
