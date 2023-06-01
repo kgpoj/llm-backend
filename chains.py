@@ -10,17 +10,21 @@ class RelevantFieldsChain(LLMChain):
     @classmethod
     def from_llm(cls, llm: BaseLLM = ChatOpenAI(temperature=0), verbose: bool = True) -> LLMChain:
         prompt = PromptTemplate(
-            input_variables=["question", "data_fields"],
+            input_variables=["question", "data_fields", "conversation_history"],
             output_parser=CommaSeparatedListOutputParser(),
             template="""
 A real estate data package includes the following fields:
 {data_fields}
 
 Users will ask questions about real estate, and you need to determine which fields of the real estate data are likely to be relevant to the users' questions.
+You must respond according to the previous conversation history.
 You should include all the relevant fields in your answer.
 Your answer should be comma-separated and not include any quotation marks.
 You should only answer with the exact field names surrounding by ", e.g. marketInsights, attributes.bedrooms.
 Do not add non-existent fields or expand existing fields in your response, bad example: abc, attributes.bedrooms.number
+
+Conversation history:
+{conversation_history}
 
 Question：{question}
 """,
